@@ -1,6 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Darcy! </h1>
+
+<h2>Software Development Projects:</h2>
+
+<b>Python<b>
+
 
 <!--
+## Hi there 👋
 **darcy-crabtree/darcy-crabtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
