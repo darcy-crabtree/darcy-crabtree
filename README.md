@@ -15,7 +15,8 @@ Here are a few projects with more to come!
 - [University Java Task 17](https://github.com/darcy-crabtree/university-java-portfolio-17)
 
 <b>🐘 Laravel<b>
-
+- [University Web Dev 1](https://github.com/darcy-crabtree/university-web-dev-1)
+- [University Web Dev 2](https://github.com/darcy-crabtree/university-web-dev-2)
 
 <b>🐍 Python<b>
 - [University Dissertation Project: Robotic Design with Sentiment](https://github.com/darcy-crabtree/university-disseration-project)
