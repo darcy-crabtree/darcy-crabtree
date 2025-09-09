@@ -1,18 +1,18 @@
 <h1>Hi, I'm Darcy! </h1>
 
-<h2>Software Development Projects:</h2>
+<h2>👩🏽‍💻 Software Development Projects:</h2>
 
-<b>Python<b>
-- [University Dissertation Project: Robotic Design with Sentiment](https://github.com/darcy-crabtree/university-disseration-project)
-
-<b>C++<b>
+<b>📄 C++<b>
 - [University C++ Project](https://github.com/darcy-crabtree/university-dungeon-game)
 
-<b>Java<b>
+<b>🟥 Java<b>
 - [University Java Task 11](https://github.com/darcy-crabtree/university-java-portfolio-11)
 - [University Java Task 12](https://github.com/darcy-crabtree/university-java-portfolio-12)
 - [University Java Task 13](https://github.com/darcy-crabtree/university-java-portfolio-13)
 - [University Java Task 17](https://github.com/darcy-crabtree/university-java-portfolio-17)
+
+<b>🐍 Python<b>
+- [University Dissertation Project: Robotic Design with Sentiment](https://github.com/darcy-crabtree/university-disseration-project)
 
 <!--
 ## Hi there 👋
