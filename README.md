@@ -14,7 +14,7 @@ Here are a few projects with more to come!
 - [University Java Task 13](https://github.com/darcy-crabtree/university-java-portfolio-13)
 - [University Java Task 17](https://github.com/darcy-crabtree/university-java-portfolio-17)
 
-<b>🐘 PHP Laravel<b>
+<b>🐘 Laravel<b>
 
 
 <b>🐍 Python<b>
