@@ -5,6 +5,9 @@
 <b>Python<b>
 - [University Dissertation Project: Robotic Design with Sentiment](https://github.com/darcy-crabtree/university-disseration-project)
 
+<b>C++<b>
+- [University C++ Project](https://github.com/darcy-crabtree/university-dungeon-game)
+
 
 <!--
 ## Hi there 👋
