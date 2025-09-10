@@ -1,7 +1,7 @@
 <h1>Hi, I'm Darcy! </h1>
 I am currently a Graduate of Computer Science looking for a job in Software Development.
 
-Here are a few projects with more to come!
+Here are a few university projects with more personal ones to come!
 
 <h2>👩🏽‍💻 Software Development Projects:</h2>
 
